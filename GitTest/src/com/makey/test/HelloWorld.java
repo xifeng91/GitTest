@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("help");
 		System.out.println("help");
 		System.out.println("help");
-		System.out.println("This is the new change");
+		System.out.println("Hello from feature branch!");
+		System.out.println("This line is from the feature branch");
 	}
 }
